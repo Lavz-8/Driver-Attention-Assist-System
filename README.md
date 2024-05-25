@@ -31,15 +31,15 @@ To avoid the Accidents and drowsiness  of the driver, the alarm which is install
     
 4. **Download the dlib shape predictor model:**
 
-- Download the shape_predictor_68_face_landmarks.dat file from [dlib's model zoo] and extract it into the project directory.
+- Download the `shape_predictor_68_face_landmarks.dat` file from dlib's model zoo and extract it into the project directory.
 
 5. **Ensure you have the Haarcascade XML file:**
 
-- Ensure haarcascade_frontalface_default.xml is in the haarcascades directory. If not, download it from [OpenCV's GitHub repository](https://github.com/opencv/opencv/tree/master/data/haarcascades).
+- Ensure `haarcascade_frontalface_default.xml` is in the haarcascades directory. If not, download it from [OpenCV's GitHub repository](https://github.com/opencv/opencv/tree/master/data/haarcascades).
   
 6. **Ensure you have an alarm sound file:**
 
-Place your alarm sound file (e.g., alarm.wav) in the audio directory or update the script with the correct path to your audio file.
+Place your alarm sound file (e.g.,`alarm.wav`) in the audio directory or update the script with the correct path to your audio file.
 
 ## Usage
 
@@ -57,7 +57,7 @@ Place your alarm sound file (e.g., alarm.wav) in the audio directory or update t
   
 3. **Stop the script:**
 
--Press q to quit the video feed and stop the script.
+-Press `q` to quit the video feed and stop the script.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
