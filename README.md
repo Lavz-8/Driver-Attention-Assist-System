@@ -61,10 +61,10 @@ Place your alarm sound file (e.g.,`alarm.wav`) in the audio directory or update 
 
 ## Output
 
-# Driver Before Drowsiness
+### Driver Before Drowsiness
 ![IMG-20230523-WA0002](https://github.com/Lavz-8/Driver-Attention-Assist-System/assets/171010558/0d34c292-a698-4261-b672-103198545d22)
 
-# Driver After Drowsiness
+### Driver After Drowsiness
 ![IMG-20230523-WA0001](https://github.com/Lavz-8/Driver-Attention-Assist-System/assets/145861363/700b804d-bda0-42d0-b285-b315c1a58626)
 
 ## Contributing
