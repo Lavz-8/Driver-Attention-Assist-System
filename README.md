@@ -70,5 +70,5 @@ Place your alarm sound file (e.g.,`alarm.wav`) in the audio directory or update 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-##Credits
+## Credits
 This Driver Attention Assist System was created by Your **Lavanya Varadharajan**.
